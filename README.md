@@ -139,6 +139,12 @@ install.packages(c(
 
 ---
 
+### Connection to the Common Good
+
+This project connects to the common good by analyzing global education data to better understand the factors that influence educational opportunities and human development across countries. The analysis highlights how infrastructure, human rights, and public investment can affect access to education, helping promote awareness of global inequality and educational development.
+
+---
+
 ## My Contributions
 
 My contributions to this project included:
